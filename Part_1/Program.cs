@@ -1,4 +1,6 @@
-﻿// Вид 1 Ничего не принимают, ничего не возвращают
+﻿           // МЕТОДЫ (ФУНКЦИИ, ПРОЦЕДУРЫ)
+
+// Вид 1 Ничего не принимают, ничего не возвращают
 void Method1()
 {
     Console.WriteLine("Автор - Алексей");
@@ -48,5 +50,5 @@ string Method4(int count, string text)
 }
 
 string res = Method4(10, "asdf"); //будет склеивать 10 раз
-Console.WriteLine(res);
+//Console.WriteLine(res);
 
